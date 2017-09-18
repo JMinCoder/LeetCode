@@ -6,7 +6,7 @@ namespace Scenarios
     {
         static void Main(string[] args)
         {
-            var t = new L001TwoSums();
+            var t = new L012IntToRoman();
             t.Test();
         }
     }
